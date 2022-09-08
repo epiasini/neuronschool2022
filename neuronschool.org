@@ -1,0 +1,10 @@
+Idea: efficient coding + contrast equalization + simple neuron
+implementation
+
+
+* References
+
+
+Review: Carandini and Heeger
+
+Mitchell and Silver
