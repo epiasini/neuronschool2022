@@ -1,3 +1,4 @@
+:Spiking mechanism for a conductance-based integrate and fire neuron. Adapted from Brette et al 2007 (ModelDB#83319).
 NEURON {
 	POINT_PROCESS SpikeOut
 	RANGE thresh, refrac, vreset, grefrac
